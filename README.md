@@ -13,7 +13,7 @@ Las secciones van precedidas de varias almohadillas, según el anidamiento de la
 
 Para poner un texto en cursiva, se mete este entre asteriscos simples. Por ejemplo, para escribir términos anglosajones como *dashboard* o *upgrade*.
 
-Si quiero poner un texto en negrita, seguiremos la misma sintaxis, pero usando dobles asteriscos, por ejemplo para resaltar alguna palabra **importante**.
+ poner un texto en negrita, seguiremos la misma sintaxis, pero usando dobles asteriscos, por ejemplo para resaltar alguna palabra **importante**.
 
 ### 1.2. Enumerados
 
