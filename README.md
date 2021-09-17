@@ -15,6 +15,8 @@ Para poner un texto en cursiva, se mete este entre asteriscos simples. Por ejemp
 
  poner un texto en negrita, seguiremos la misma sintaxis, pero usando dobles asteriscos, por ejemplo para resaltar alguna palabra **importante**.
 
+ ***probando cursiva y negrita a la vez***
+
 ### 1.2. Enumerados
 
 Simplemente, hago un listado de ítems, precedidos por su número o posición. Por ejemplo, el siguiente listado:
