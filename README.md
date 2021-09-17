@@ -15,9 +15,9 @@ Para poner un texto en cursiva, se mete este entre asteriscos simples. Por ejemp
 
  poner un texto en negrita, seguiremos la misma sintaxis, pero usando dobles asteriscos, por ejemplo para resaltar alguna palabra **importante**.
 
-***probando cursiva y negrita a la vez*** 
-*usando solo cursiva*
-**usando solo negrita**
+***probando cursiva y negrita a la vez***. 
+*usando solo cursiva*.
+**usando solo negrita**.
 
 ### 1.2. Enumerados
 
@@ -63,3 +63,6 @@ Aquí podemos ver el logo de GitHub:
 ### 3.1. Enlaces
 
 Recordad que podréis acceder a todas las prácticas en nuestro [repo *clases-julio*](https://github.com/clases-julio)
+
+## 4. Contacto
+<correofalso@gmail.com>
