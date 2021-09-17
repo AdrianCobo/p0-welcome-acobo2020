@@ -1,4 +1,4 @@
-# Ejemplo de fichero README.md
+ # Ejemplo de fichero README.md
 ## (CC-BY-NC-SA) Julio Vega
 
 El objetivo de este **fichero README.md de ejemplo** es conocer el uso básico de *MarkDown* para que los estudiantes se familiaricen con este lenguaje.
@@ -15,9 +15,9 @@ Para poner un texto en cursiva, se mete este entre asteriscos simples. Por ejemp
 
  poner un texto en negrita, seguiremos la misma sintaxis, pero usando dobles asteriscos, por ejemplo para resaltar alguna palabra **importante**.
 
- ***probando cursiva y negrita a la vez*** 
- *usando solo cursiva*
- **usando solo negrita**
+***probando cursiva y negrita a la vez*** 
+*usando solo cursiva*
+**usando solo negrita**
 
 ### 1.2. Enumerados
 
